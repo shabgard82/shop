@@ -15,8 +15,8 @@ export interface DataType {
 export default function Store() {
   return (
     <Container>
-      <h1 className="py-4">store</h1>
-      <div className="grid grid-cols-4 gap-4">
+      <h1 className="py-4 font-bold lg:text-[20px] text-[16px]">store</h1>
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 ">
         {data.map((item: DataType) => (
           <ProductItem key={item.id} {...item} />
         ))}

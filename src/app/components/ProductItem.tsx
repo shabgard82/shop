@@ -26,9 +26,9 @@ export default function ProductItem({
       <div className="p-2">
         <div className="flex justify-between items-center">
           <p>{title}</p>
-          <p>cost : {cost}$</p>
+          <p>{cost}$</p>
         </div>
-        <p className="text-gray-500">{description}</p>
+        <p className="text-gray-500">{description.slice(0, 100) + "..."}</p>
       </div>
     </div>
   );
