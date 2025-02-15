@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "burger",
+      "cost": "4,000",
+      "image": "/images/burger.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "2",
+      "title": "pizza",
+      "cost": "3,000",
+      "image": "/images/pizza.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "3",
+      "title": "curry",
+      "cost": "1,000",
+      "image": "/images/curry.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    }
+  ]
+}
