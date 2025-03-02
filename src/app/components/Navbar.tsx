@@ -14,6 +14,14 @@ export default function Navbar() {
       href: "/store",
       title: "Store",
     },
+    {
+      href: "/cart",
+      title: "Cart",
+    },
+    {
+      href: "/login",
+      title: "Login",
+    },
   ];
   return (
     <nav className="shadow p-4">

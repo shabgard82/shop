@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "cookies-next": "^5.1.0",
+    "iconsax-react": "^0.0.8",
     "json-server": "^1.0.0-beta.3",
     "next": "15.1.4",
     "react": "^19.0.0",

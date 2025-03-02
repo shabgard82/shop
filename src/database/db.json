@@ -20,6 +20,41 @@
       "cost": "1,000",
       "image": "/images/curry.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "4",
+      "title": "nuddle",
+      "cost": "1200",
+      "image": "/images/dumplings.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "5",
+      "title": "spagetti",
+      "cost": "6500",
+      "image": "/images/schnitzel.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "6",
+      "title": "hot dog",
+      "cost": "7,000",
+      "image": "/images/tomato-salad.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "7",
+      "title": "sossage",
+      "cost": "5,000",
+      "image": "/images/macncheese.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
+    },
+    {
+      "id": "8",
+      "title": "meat",
+      "cost": "3500",
+      "image": "/images/curry.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dignissimos provident aspernatur fugiat iusto voluptatem earum! Sapiente, voluptas. Quos, quas cupiditate ratione repellendus facilis officiis dolore. Similique, accusamus quaerat. Eos?"
     }
   ]
 }

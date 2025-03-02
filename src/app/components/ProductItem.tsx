@@ -18,7 +18,7 @@ export default function ProductItem({
           src={image}
           className="object-cover relative rounded-md"
         />
-        <p className="absolute top-1 right-1 rounded-full bg-red-600  p-1">
+        <p className="absolute top-1 right-1 bg-red-600 rounded-full px-2">
           {id}
         </p>
       </div>
@@ -26,7 +26,7 @@ export default function ProductItem({
       <div className="p-2">
         <div className="flex justify-between items-center">
           <p>{title}</p>
-          <p>{cost}$</p>
+          <p className="text-red-700">{cost}$</p>
         </div>
         <p className="text-gray-500">{description.slice(0, 100) + "..."}</p>
       </div>
